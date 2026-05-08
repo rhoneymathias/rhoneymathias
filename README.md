@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png">
+</p>
+
 # Olá! Eu sou o Rhoney 👋
 
 🎓 Engenheiro da Computação  
